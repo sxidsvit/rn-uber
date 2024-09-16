@@ -7,7 +7,7 @@
 - Stripe
 - PostgreSQL
 - Google Maps
-- zustand
+- Zustand
 - Clerk
 - Tailwind CSS
 
